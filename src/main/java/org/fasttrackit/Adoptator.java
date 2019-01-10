@@ -10,4 +10,8 @@ public class Adoptator {
     public Adoptator(String name) {
         this.name = name;
     }
+
+    public Adoptator() {
+
+    }
 }
