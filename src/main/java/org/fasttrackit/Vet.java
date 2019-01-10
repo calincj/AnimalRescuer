@@ -6,5 +6,7 @@ public class Vet {
     String specialization;
     String clinicWork;
 
-
+    public Vet(String name) {
+        this.name = name;
+    }
 }

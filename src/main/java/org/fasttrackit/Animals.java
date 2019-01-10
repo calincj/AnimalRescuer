@@ -13,5 +13,8 @@ public class Animals {
     String activity;
 
 
+    public Animals(String name) {
+        this.name = name;
+    }
 
 }

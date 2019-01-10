@@ -7,5 +7,7 @@ public class Adoptator {
     String typeOfAnimal;
     double money;
 
-
+    public Adoptator(String name) {
+        this.name = name;
+    }
 }
